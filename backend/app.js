@@ -18,7 +18,8 @@ connectDB();
 
 const allowedOrigins = [
   "https://expense-tracker-app-main.vercel.app",
-  "http://localhost:3000", // Add the local development origin
+  "http://localhost:3000",
+  "https://eta-xbfr.vercel.app"// Add the local development origin
   // add more origins as needed
 ];
 
